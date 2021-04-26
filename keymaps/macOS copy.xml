@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="shift n" />
+  </action>
+  <action id="PrevParameter">
+    <keyboard-shortcut first-keystroke="shift p" />
+  </action>
+</keymap>
