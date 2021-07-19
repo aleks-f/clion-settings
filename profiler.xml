@@ -4,6 +4,7 @@
       <call-tree-ui>
         <option name="filterCalls" value="false" />
         <option name="showCalleesList" value="false" />
+        <option name="showPercentsOfRoot" value="false" />
       </call-tree-ui>
     </option>
   </component>
