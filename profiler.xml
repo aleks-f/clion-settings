@@ -7,6 +7,11 @@
         <option name="showPercentsOfRoot" value="false" />
       </call-tree-ui>
     </option>
+    <option name="flameGraphState">
+      <flame-graph-ui>
+        <option name="icicleGraph" value="true" />
+      </flame-graph-ui>
+    </option>
     <option name="threadListOptions">
       <thread-list>
         <option name="showMetrics">
