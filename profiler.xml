@@ -1,0 +1,25 @@
+<application>
+  <component name="CommonProfilerUISettings">
+    <option name="callTreeState">
+      <call-tree-ui>
+        <option name="filterCalls" value="false" />
+        <option name="showCalleesList" value="false" />
+        <option name="showPercentsOfRoot" value="false" />
+      </call-tree-ui>
+    </option>
+    <option name="flameGraphState">
+      <flame-graph-ui>
+        <option name="icicleGraph" value="true" />
+      </flame-graph-ui>
+    </option>
+    <option name="threadListOptions">
+      <thread-list>
+        <option name="showMetrics">
+          <map>
+            <entry key="threadIdMetric" value="false" />
+          </map>
+        </option>
+      </thread-list>
+    </option>
+  </component>
+</application>
